@@ -5,13 +5,15 @@
 <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="tejasree-animation" width="300" align="right" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasree-goli&label=Profile%20views&color=0e75b6&style=flat" alt="tejasree-goli"/> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tejasree-Goli](https://github.com/Tejasree-Goli)
+- 👨‍💻 All my projects are available at [https://github.com/Tejasree-Goli](https://github.com/Tejasree-Goli)
 
-- 📝 I regularly write articles on various topics at [https://golitejasree.com](https://golitejasree.com)
+- 🌱 Currently upskilling in: Machine Learning/AI, Visualization and Market Research
 
-- 📫 How to reach me **golitejasree@gmail.com**
+- 📝 I regularly post my writings at [https://golitejasree.com](https://golitejasree.com)
 
-- 🧠 My Interests are: Data Visualziation, Machine Learning, Reading Books and Writing!
+- 📫 Reach me at: **golitejasree@gmail.com**
+
+- 🧠 My Hobbies are: Reading Books and Writing, Watching Documentaries (Oops, I forgot to mention travelling)!
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
