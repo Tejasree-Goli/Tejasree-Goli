@@ -22,9 +22,9 @@
 
 <h4 align="left">Languages and Tools:</h4>
 <ul>
-  <li>**Programming** - Python, SQL, R
-  <li>**Data Visualization** - PowerBI, Microsoft Excel, Python Libraries (Matplotlib, Seaborn), QlikView</li>
-  <li>**AI and Machine Learning** - Machine Learning Algorithms, Deep Learning Algorithms, AI Frameworks (TensorFlow, PyTorch)</li>
-  <li>**Database Management and Big Data** - MySQL, Hive, Hadoop, Snowflake, Google BigQuery</li>
-  <li>**Project Management Tools** - Notion, JIRA, Monday.com</li>
+  <li><b>Programming</b> - Python, SQL, R
+  <li><b>Data Visualization</b> - PowerBI, Microsoft Excel, Python Libraries (Matplotlib, Seaborn), QlikView</li>
+  <li><b>AI and Machine Learning</b> - Machine Learning Algorithms, Deep Learning Algorithms, AI Frameworks (TensorFlow, PyTorch)</li>
+  <li><b>Database Management and Big Data</b> - MySQL, Hive, Hadoop, Snowflake, Google BigQuery</li>
+  <li><b>Project Management Tools</b> - Notion, JIRA, Monday.com</li>
 </ul>
